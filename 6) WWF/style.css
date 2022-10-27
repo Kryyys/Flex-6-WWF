@@ -1,0 +1,124 @@
+body {
+    width: 700px;
+    height: auto;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* LIGNE 1 */
+
+.ligne1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.manger {
+    background-image: url(Images/Img1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 340px;
+    height: 230px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.optimiser {
+    background-image: url(Images/Img2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 340px;
+    height: 230px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.taille1 {
+    font-size: 35px;
+}
+
+/* LIGNE 2 */
+
+.ligne2 {
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.taille2 {
+    font-size: 23px;
+}
+
+.deplacer {
+    background-image: url(Images/Img3.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 220px;
+    height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.dechets {
+    background-image: url(Images/Img4.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 220px;
+    height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.empreinte {
+    background-image: url(Images/Img5.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 220px;
+    height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+/* LIGNE 3 */
+
+.ligne3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.taille3 {
+    font-size: 34px;
+}
+
+.choisir {
+    background-image: url(Images/Img6.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 340px;
+    height: 230px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.gerer {
+    background-image: url(Images/Img7.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 340px;
+    height: 230px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
